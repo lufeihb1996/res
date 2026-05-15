@@ -33,7 +33,7 @@ export interface OrderInput {
   cartItems: CartItem[];
 }
 
-const storageKey = "restaurant-project-state-v1";
+const storageKey = "restaurant-project-state-v2";
 type Listener = (state: RestaurantState) => void;
 
 function createInitialState(): RestaurantState {

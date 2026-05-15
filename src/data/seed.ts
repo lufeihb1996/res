@@ -3,7 +3,7 @@ import type { RestaurantProfile } from "../domain/restaurant";
 
 export const restaurantProfile: RestaurantProfile = {
   id: "hewei",
-  name: "禾味餐厅",
+  name: "占城傻逼餐厅",
   cuisine: "现代中式小馆",
   tagline: "把一顿好饭做得轻松、清楚、准时。",
   phone: "021-5888-2026",
